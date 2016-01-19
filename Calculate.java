@@ -11,7 +11,7 @@ public class Calculate{
 				System.out.println("sum = " + (first+second));
 				break;
 			case "multiply":
-				System.out.println("multiply = " + first*second);
+				System.out.println("multiply = " + (first*second));
 				break;
 			case "subtraction":
 				System.out.println("subtraction = " + (first-second));
